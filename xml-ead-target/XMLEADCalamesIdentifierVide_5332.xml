@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead>
+    <eadheader>
+        <eadid identifier="" countrycode="FR" mainagencycode="341720001"
+            url="https://calames.abes.fr/pub/ms/FileId-5332">FR-751059801-5332</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Collection de cartes postales de l'Observatoire océanologique de
+                    Banyuls-sur-Mer</titleproper>
+                <subtitle>Archives de l'Observatoire océanologique de Banyuls-sur-Mer</subtitle>
+                <author>Sorbonne Université</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Agence bibliographique de l'Enseignement supérieur</publisher>
+                <date normal="2024">2024</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Créé par Sandrine Bodin Responsable de la Bibliothèque de l'Observatoire
+                océanologique de Banyuls-sur-Mer et encodé manuellement par Victor Beillard,
+                archiviste du Département des collections de la Bibliothèque de Sorbonne
+                Université.</creation>
+            <langusage>Catalogue rédigé en <language langcode="fre">français</language></langusage>
+            <descrules>Encodage en XLM conformement à la DTD EAD version 2002.</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unitid countrycode="fr" repositorycode="341720001" type="cote">3.2 OOB</unitid>
+            <unitdate era="ce" calendar="gregorian" normal="1850/2100">XIX<emph render="super"
+                    >e</emph>-XXI<emph render="super">e</emph> siècles</unitdate>
+            <physdesc><extent>0.20 ml</extent></physdesc>
+            <unittitle>Collection de cartes postales</unittitle>
+            <physloc>Observatoire océanologique de Banyuls (Sorbonne Université / CNRS), bâtiment
+                Edouard Chatton, 20 Avenue Pierre Fabre, 66650 Banyuls-sur-Mer.</physloc>
+            <repository><corpname normal="Sorbonne Université" authfilenumber="751059801"
+                    source="Répertoire_des_Centres_de_Ressources">Sorbonne Université</corpname>,
+                Bibliothèque de l'Observatoire océanologique de Banyuls-sur-Mer</repository>
+        </did>
+        <scopecontent>
+            <p>Les membres de la station, et plus précisement le personnel de la Bibliothèque du
+                Laboratoire Arago, ont reçu et collecté des cartes postales illustrant la station,
+                ainsi que sa ville Banyuls-sur-Mer.</p>
+        </scopecontent>
+    </archdesc>
+</ead>
